@@ -1,1 +1,1 @@
-# Excel_coffee_project
+Pivot table| Power Query Editor | Data Analysis | Slicers
